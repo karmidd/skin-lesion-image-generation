@@ -22,7 +22,7 @@ Diffusion models learn to generate images by reversing a "noising" process. They
 
 <p align="center">
   <img src="public/denoising-steps.gif" alt="Demo GIF" width="200"><br>
-  <em>Figure 1: Denoising steps using "malignant skin lesion" as a prompt</em>
+  <em>Denoising steps using "malignant skin lesion" as a prompt</em>
 </p>
 
 ### 2. Data Preprocessing
@@ -116,6 +116,7 @@ This at-chance (50/50) performance on synthetic images demonstrates that our gen
 
 <p align="center"> <img src="public/synthetic_examples.jpg" width="90%"/> <br><em>Examples of our synthetic images generated using our diffusion-based approach.</em></p>
 
+https://github.com/user-attachments/assets/720009e7-01ee-4b05-817a-2fcd69c1569e
 
 ## Conclusion
 This project demonstrates that synthetic data generation can serve as a powerful tool to correct class imbalance in medical imaging datasets.
